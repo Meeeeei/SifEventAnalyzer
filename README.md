@@ -4,4 +4,4 @@ Started with the T1 score of the recent YohaMaru Event for some intial understan
 
 So far:
 1. T1 score boosts up quickly in the first 10 hours of the event, as well as ~the last 5 hours of the event. An 3rd-order polynomial will be a good regression model to start with.
-2. Between day 2 and day 8, the growth of T1 score wrt time is linear and the slope is around 23.7.
+2. Between day 2 and day 8, the growth of T1 score wrt time is linear. It may be a useful for setting parameters for the polynomial regression.
